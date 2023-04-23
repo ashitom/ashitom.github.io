@@ -1,6 +1,6 @@
 # Introduction 
 
-Thomas Ashi has 17+ years of digital transformation experience, starting out as a software developer, then transitioned to Business Process Analyst/Project Manager and now as Data Scientist/Analyst.
+Thomas Ashi has 17+ years of digital transformation experience, starting out as a software developer, transitioned to Business Process Analyst/Project Manager and now a Data Scientist/Analyst.
 
 # Past Experience
 
