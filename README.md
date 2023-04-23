@@ -6,4 +6,5 @@ More recently, I have led digital transformation projects as a Project Manager a
 # What I do now.
 I am a growing data scientist. My learning over the years have been a great foundation for this transition. I am rapidly learning how to write algorithms for exploring data to uncover patterns that have business value. The goal is to help organisations and individuals make better use of data they generate everyday to improve existing services/products or create new ones and to support their strategic decision making. My interest in optimization extends to building machines that can automate tasks...hopefully I can help automate some boring activities so that mankind can focus more on critical thinking :)
 # Connect with me
-https://twitter.com/anafehashi
+[![twitter](https://user-images.githubusercontent.com/84896110/233870255-b57ecbcc-b9c4-4459-961b-7cd45f6b2064.png)](https://twitter.com/anafehashi)
+
