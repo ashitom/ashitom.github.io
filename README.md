@@ -1,11 +1,15 @@
 # Introduction 
 
-My name is Tom Ashi. I have over 17 years of digital transformation experience, starting out as a software developer with the defunct Diamond Bank plc of Nigeria, during which I developed the first Nigerian bespoke application for global trade, nicknamed Trade Tracker. After 5 years, I transitioned to a Business Process Management (BPM) role, where I led the bank's rapid retail expansion strategy and improved daily customer acquisition from 1000 accounts per day to over 12000 accounts per day, by implementing and operating a BPM solution in partnership with Newgen Software Technologies of India.
+Tom Ashi has 17+ years of digital transformation experience, starting out as a software developer, then transitioned to Business Process Analyst/Project Manager and now as Data Scientist/Analyst.
 
-More recently, I have led digital transformation projects as a Project Manager and Business Analyst, of which the implementation of the first fingerprint biometric customer identity solution for in-branch banking services in Nigeria stands out.
-# What I do now.
-I am a growing data scientist. My learning over the years have been a great foundation for this transition. I am rapidly learning how to write algorithms for exploring data to uncover patterns that have business value. The goal is to help organisations and individuals make better use of data they generate everyday to improve existing services/products or create new ones and to support their strategic decision making. My interest in optimization extends to building machines that can automate tasks...hopefully I can help automate some boring activities so that mankind can focus more on critical thinking :)
-# Connect with me
+# Past Experience
+
++ Developed first bespoke application for global trade, nicknamed Trade Tracker, in Nigeria's Banking Industry. 
++ Drove customer acquisition of defunct Diamond Bank of Nigeria, from about 1000 customers per day to over 12000 customers per day within one year, through digital innovation
++ Led implementation of the first fingerprint biometric customer identity solution for in-branch banking services in Nigeria.
+# Current Focus.
+Machine learning algorithms to explore data and uncover patterns that have business value. Passionate about helping businesses improve service/product innovations, cut down cost of doing business and formulate better business strategies through data-driven optimizations. Enthusiastic about AI and it's ethical applications, especially in automating tasks.
+# Let's Connect
 [![twitter](https://user-images.githubusercontent.com/84896110/233870255-b57ecbcc-b9c4-4459-961b-7cd45f6b2064.png)](https://twitter.com/anafehashi)
 [![linkedin](https://user-images.githubusercontent.com/84896110/233870716-88e0e929-4d6e-4648-933e-2ae89bd250b8.png)](https://www.linkedin.com/in/anafeh/)
 
